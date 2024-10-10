@@ -198,6 +198,6 @@ crear_button.grid(row=12, column=1, padx=20, pady=10)
 created_by = tk.Label(ventana, text="Created by Federico Medina", font=("Arial", 10), bg=AZUL, fg=BLANCO)
 created_by.grid(row=0, column=0, columnspan=1, padx=0, pady=0)
 
-# Se Agregan comentarios para probar Branch del Repositorio de GitHub
+# Se Agregan comentarios para probar Branch del Repositorio de Github
 # Iniciar la ventana
 ventana.mainloop()
