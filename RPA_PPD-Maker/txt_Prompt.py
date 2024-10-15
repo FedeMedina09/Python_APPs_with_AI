@@ -125,4 +125,4 @@ Ejemplo: N/A
 7. Utiliza números o viñetas según consideres necesario.
 """
 
-print(repr(prompt))
+#print(repr(prompt))
